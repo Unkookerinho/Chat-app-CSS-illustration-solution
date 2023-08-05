@@ -8,5 +8,5 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://www.frontendmentor.io/solutions/chat-app-css-illustration-solution-KH85yLkXDF
+- Live Site URL: https://unkookerinho-chat-app-illustration.netlify.app
