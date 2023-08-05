@@ -1,0 +1,44 @@
+// COLORS
+// Sub heading at the top of the app UI
+$clr-pale-violet: hsl(276, 100%, 81%);
+
+//Chat on the left
+$clr-moderate-violet: hsl(276, 55%, 52%);
+
+// Chat on the right
+$clr-desaturated-dark-violet: hsl(271, 15%, 43%);
+
+// Placeholder text
+$clr-grayish-blue: hsl(206, 6%, 79%);
+
+// Main heading
+$clr-very-dark-desaturated-violet: hsl(271, 36%, 24%);
+
+// Paragraph
+$clr-dark-grayish-violet: hsl(270, 7%, 64%);
+
+
+//SECONDARY
+// White
+$sec-white: hsl(0, 0%, 100%);
+$sec-white-transparent: hsl(0, 0%, 100%, 70%);
+
+// App background
+$sec-light-grayish-violet: hsl(270, 20%, 96%);
+
+// Submit button background
+$sec-very-dark-desaturated-violet: hsl(271, 36%, 24%);
+
+// Radio button outline
+$sec-very-light-magenta: hsl(289, 100%, 72%);
+
+
+//GRADIENT
+$grd-pink-to-violet: linear-gradient(to right, hsl(293, 100%, 63%), hsl(264, 100%, 61%)); 
+$grd-violet-to-pink: linear-gradient(to right, hsl(264, 100%, 61%) 20%, hsl(293, 100%, 63%) 80%); 
+$grd-background: linear-gradient(hsl(293, 100%, 63%) 10%, hsl(264, 100%, 61%)); 
+
+//FONT WEIGHTS
+$fw-regular: 400;
+$fw-semi-bold: 500;
+$fw-bold: 700;
